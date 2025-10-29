@@ -1,0 +1,55 @@
+<div class="board-container">
+
+  <div class="search-container">
+    <input matInput [(ngModel)]="searchText" placeholder="SEARCH" class="search-input">
+    <button mat-flat-button color="primary" class="search-button"> <mat-icon matPrefix>search</mat-icon></button>
+  </div>
+
+  <button mat-fab
+          color="primary"
+          class="add-button"
+          (click)="toggleForm()">
+    <mat-icon>add</mat-icon>
+  </button>
+
+  <ng-container *ngIf="notices$ | async as notices">
+    <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+    <div *ngIf="!isLoading && notices.length === 0" class="empty-message">There are no notices.</div>
+    <div class="notices-list">
+      <app-notice-item *ngFor="let notice of notices  | filterNotices: searchText"
+                       [notice]="notice"
+                       (noticeUpdate)="handleUpdateNotice($event, item)"
+                       (noticeDelete)="handleDeleteNotice($event)"
+                       #item></app-notice-item>
+    </div>
+  </ng-container>
+
+  <div class="new-notice-drawer" [class.open]="isFormOpen">
+
+    <button mat-icon-button class="close-button" (click)="toggleForm()">
+      <mat-icon>close</mat-icon>
+    </button>
+
+    <mat-card class="new-notice-card">
+      <mat-card-title class="new-notice-title">Create a new notice</mat-card-title>
+      <mat-card-content>
+
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Title</mat-label>
+          <input matInput type="text" [(ngModel)]="newNotice.title" required>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Content</mat-label>
+          <textarea matInput [(ngModel)]="newNotice.content" rows="4" required></textarea>
+        </mat-form-field>
+
+      </mat-card-content>
+      <mat-card-actions >
+        <button mat-raised-button color="accent" (click)="createNewNotice()" [disabled]="!newNotice.title || !newNotice.content">
+          Create
+        </button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>

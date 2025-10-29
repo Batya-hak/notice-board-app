@@ -1,0 +1,44 @@
+<mat-card class="notice-card" >
+
+  <ng-container *ngIf="!isEditing; else editMode">
+    <mat-card-header>
+      <mat-card-title class="notice-title">{{ notice.title }}</mat-card-title>
+    </mat-card-header>
+
+    <mat-card-content>
+      <mat-card-subtitle class="notice-content-display">{{ notice.content }} </mat-card-subtitle>
+    </mat-card-content>
+
+    <mat-card-footer class="notice-card-footer">
+      <p>Posted by {{ notice.publisherName }}</p>
+      <p>Posted at {{ notice.dateCreated | date: 'shortDate' }}</p>
+    </mat-card-footer>
+
+      <mat-card-actions align="end">
+        <ng-container *ngIf="notice.publisherId === currentUserId">
+          <button mat-icon-button color="primary" (click)="enterEditMode()"> <mat-icon>edit</mat-icon></button>
+          <button mat-icon-button color="warn" (click)="deleteNotice()"> <mat-icon>delete</mat-icon></button>
+        </ng-container>
+      </mat-card-actions>
+  </ng-container>
+
+  <ng-template #editMode>
+    <div class="edit-form">
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Title</mat-label>
+        <input matInput type="text" [(ngModel)]="editedNotice.title" required>
+      </mat-form-field>
+
+      <mat-form-field appearance="outline" class="full-width">
+        <mat-label>Content</mat-label>
+        <textarea matInput [(ngModel)]="editedNotice.content" rows="4" required></textarea>
+      </mat-form-field>
+
+      <mat-card-actions align="end">
+        <button mat-raised-button color="primary" (click)="saveChanges()" [disabled]="!editedNotice.title || !editedNotice.content">Save</button>
+        <button mat-raised-button (click)="cancelEdit()">Cancel</button>
+      </mat-card-actions>
+    </div>
+  </ng-template>
+
+</mat-card>

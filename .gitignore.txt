@@ -14,3 +14,17 @@ Thumbs.db
 # נתיבים כלליים, אם לא כוסו בתיקיות הפנימיות
 **/node_modules
 **/dist
+
+# --- כללי Angular/Node נוספים (נוסף עכשיו) ---
+# Compiled output
+**/tmp
+**/out-tsc
+
+# Node/Logs
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.vscode/
+.history/
+/.angular

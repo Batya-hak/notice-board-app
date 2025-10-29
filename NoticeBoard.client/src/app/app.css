@@ -1,0 +1,36 @@
+
+.div-header {
+  background-color: #bb00a5;
+  /* מגדירים צבע טקסט כהה כדי להתאים לרקע הבהיר */
+  width: 100%;
+  padding: 30px 10px;
+}
+
+.app-header-card {
+  margin: 10px auto; /* ממורכז אופקית, מרווחים למעלה ולמטה */
+  max-width: 800px; /* הגבלת רוחב כדי שלא יהיה רחב מדי */
+  text-align: center; /* ממורכז טקסט */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* צל עדין לכרטיס */
+}
+
+.app-header-content {
+  padding: 10px;
+}
+
+.app-main-title {
+  font-family: 'Arial', sans-serif; /* או פונט דומה לדוגמה */
+  font-size: 3em; /* גודל כותרת גדולה */
+  font-weight: bold;
+  color: #333; /* צבע כהה לכותרת */
+  line-height: 1.2; /* מרווח שורה בין השורות */
+  margin-bottom: 10px;
+}
+
+.app-subtitle {
+  font-family: 'Arial', sans-serif;
+  font-size: 1.1em;
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
