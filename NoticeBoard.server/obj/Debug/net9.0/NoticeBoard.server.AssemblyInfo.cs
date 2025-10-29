@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoticeBoard.server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+938054948fdee0fe4fe6d5f9304443d8ddb608f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoticeBoard.server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoticeBoard.server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

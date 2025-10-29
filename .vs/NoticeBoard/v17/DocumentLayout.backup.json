@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -86,11 +90,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\package.json",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\package.json",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\package.json",
+              "RelativeToolTip": "NoticeBoard.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T22:10:25.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "proxy.conf.json",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\proxy.conf.json",
               "RelativeDocumentMoniker": "NoticeBoard.client\\proxy.conf.json",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "app.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.ts",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "app.routes.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.routes.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.routes.ts",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app.spec.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.spec.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.spec.ts",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "app.routes.server.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.routes.server.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.routes.server.ts",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "app.html",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.html",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.html",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.css",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.css",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "notice-item.component.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.ts",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "app.config.server.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.config.server.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.config.server.ts",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "users.service.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\services\\users.service.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\services\\users.service.ts",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "notices.service.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\services\\notices.service.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\services\\notices.service.ts",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "filter-notices.pipe.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\pipes\\filter-notices.pipe.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\pipes\\filter-notices.pipe.ts",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "user.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\models\\user.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\models\\user.ts",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "notice.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\models\\notice.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\models\\notice.ts",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "notice-item.component.html",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.html",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.html",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "notice-item.component.css",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.css",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.css",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "board.component.css",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.css",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\board\\board.component.css",
@@ -311,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "board.component.ts",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.ts",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\board\\board.component.ts",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "board.component.html",
               "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.html",
               "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\board\\board.component.html",
