@@ -1,0 +1,16 @@
+# Build Folders and Files
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+# VS/IDE Specific
+.vs/
+.vscode/
+
+# Package files
+*.nupkg
+
+# Tests/artifacts
+TestResults/

@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Title": "\u05E9\u05D5\u05DC\u05D7\u05DF \u05DC\u05DE\u05E1\u05D9\u05E8\u05D4",
+    "Content": "\u05E9\u05D5\u05DC\u05D7\u05DF \u05DE\u05D8\u05D1\u05D7 \u05D2\u05D3\u05D5\u05DC \u05DC\u05DE\u05E1\u05D9\u05E8\u05D4\n\u05D1\u05E6\u05D1\u05E2 \u05DC\u05D1\u05DF \u05E7\u05E8\u05DD\n\u05DB\u05DC \u05D4\u05E7\u05D5\u05D3\u05DD \u05D6\u05D5\u05DB\u05D4!\n\u05D8\u05DC:04-62690368",
+    "DateCreated": "2025-10-29T22:32:36.2591915+02:00",
+    "PublisherId": 1,
+    "PublisherName": "Yaniv Levi"
+  },
+  {
+    "Id": 2,
+    "Title": "Apartment for rent!!",
+    "Content": "5 room apartment in the center of Jerusalem for rent at a bargain price\nFor more details call 054-85434565",
+    "DateCreated": "2025-10-29T22:59:42.2349043+02:00",
+    "PublisherId": 1,
+    "PublisherName": "Yaniv Levi"
+  },
+  {
+    "Id": 3,
+    "Title": "Temporary worker needed!!!!",
+    "Content": "Hardworking worker needed for a transportation company in central Israel.\nVery rewarding salary!\nWork for the company from day one!",
+    "DateCreated": "2025-10-29T23:05:11.6273017+02:00",
+    "PublisherId": 3,
+    "PublisherName": "Tal Shir"
+  },
+  {
+    "Id": 4,
+    "Title": "Special animal show!",
+    "Content": "Come see rare animal shows\nCombination of artists and music\nThe show will be this Tuesday!",
+    "DateCreated": "2025-10-29T23:13:01.5892187+02:00",
+    "PublisherId": 3,
+    "PublisherName": "Tal Shir"
+  },
+  {
+    "Id": 5,
+    "Title": "\u05E1\u05E4\u05EA \u05D9\u05D3 \u05E9\u05E0\u05D9\u05D4 \u05D1\u05DE\u05E6\u05D1 \u05D7\u05D3\u05E9",
+    "Content": "\u05E1\u05E4\u05D4 \u05D7\u05D3\u05E9\u05D4 \u05DE\u05E2\u05D5\u05E8, \u05D1\u05E6\u05D1\u05E2 \u05D9\u05E8\u05D5\u05E7, \u05E0\u05D5\u05D7\u05D4 \u05DE\u05D0\u05D5\u05D3.\n\u05DE\u05D5\u05DB\u05E8\u05D9\u05DD \u05E2\u05E7\u05D1 \u05DE\u05E2\u05D1\u05E8 \u05D3\u05D9\u05E8\u05D4\n\u05DE\u05D7\u05D9\u05E8 \u05D2\u05DE\u05D9\u05E9\n08909097",
+    "DateCreated": "2025-10-29T23:19:32.7213787+02:00",
+    "PublisherId": 2,
+    "PublisherName": "Danny Go"
+  }
+]

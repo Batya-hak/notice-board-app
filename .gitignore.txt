@@ -1,0 +1,16 @@
+# Visual Studio / Solution
+*.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Windows/OS files
+Thumbs.db
+
+# נתיבים כלליים, אם לא כוסו בתיקיות הפנימיות
+**/node_modules
+**/dist

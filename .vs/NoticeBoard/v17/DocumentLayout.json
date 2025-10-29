@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\components\\notice-item\\notice-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\components\\notice-item\\notice-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.routes.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\app.config.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\app.config.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\services\\users.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\services\\users.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\services\\notices.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\services\\notices.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\pipes\\filter-notices.pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\pipes\\filter-notices.pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\models\\user.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\models\\user.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\models\\notice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\models\\notice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\components\\notice-item\\notice-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\components\\notice-item\\notice-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\components\\notice-item\\notice-item.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\components\\notice-item\\notice-item.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\components\\board\\board.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\components\\board\\board.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\components\\board\\board.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\components\\board\\board.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|c:\\users\\user_pc\\desktop\\fullstack\\noticeboard\\noticeboard.client\\src\\app\\components\\board\\board.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{80C9022C-3B89-47EE-9B46-4F53DEAB8061}|C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client|solutionrelative:noticeboard.client\\src\\app\\components\\board\\board.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\package.json",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\package.json",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\package.json",
+              "RelativeToolTip": "NoticeBoard.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T22:10:25.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\proxy.conf.json",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\proxy.conf.json",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\proxy.conf.json",
+              "RelativeToolTip": "NoticeBoard.client\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T21:46:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:44:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:44:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.spec.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:44:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.routes.server.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.routes.server.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.routes.server.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.routes.server.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.routes.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:44:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.html",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.html",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T21:44:10.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.css",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.css",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T21:44:07.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "notice-item.component.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:36:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.config.server.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.config.server.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\app.config.server.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\app.config.server.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\app.config.server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:44:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "users.service.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\services\\users.service.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\services\\users.service.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\services\\users.service.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\services\\users.service.ts",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:43:24.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "notices.service.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\services\\notices.service.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\services\\notices.service.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\services\\notices.service.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\services\\notices.service.ts",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:39:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "filter-notices.pipe.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\pipes\\filter-notices.pipe.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\pipes\\filter-notices.pipe.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\pipes\\filter-notices.pipe.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\pipes\\filter-notices.pipe.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:38:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "user.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\models\\user.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\models\\user.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\models\\user.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\models\\user.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:38:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "notice.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\models\\notice.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\models\\notice.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\models\\notice.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\models\\notice.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:38:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "notice-item.component.html",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.html",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.html",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.html",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T21:35:56.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "notice-item.component.css",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.css",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.css",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.css",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\components\\notice-item\\notice-item.component.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T21:35:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "board.component.css",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.css",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\board\\board.component.css",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.css",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\components\\board\\board.component.css",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T21:32:23.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "board.component.ts",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.ts",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\board\\board.component.ts",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.ts",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\components\\board\\board.component.ts",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwFkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-29T21:24:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "board.component.html",
+              "DocumentMoniker": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.html",
+              "RelativeDocumentMoniker": "NoticeBoard.client\\src\\app\\components\\board\\board.component.html",
+              "ToolTip": "C:\\Users\\USER_PC\\Desktop\\FullStack\\NoticeBoard\\NoticeBoard.client\\src\\app\\components\\board\\board.component.html",
+              "RelativeToolTip": "NoticeBoard.client\\src\\app\\components\\board\\board.component.html",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvyQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T21:24:29.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
